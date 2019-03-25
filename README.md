@@ -1,0 +1,2 @@
+# OA_XG_SqlUpdate
+该项目是练手实现在MySQL中不同数据库OA和XG之间的数据同步
